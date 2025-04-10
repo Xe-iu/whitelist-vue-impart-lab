@@ -6,8 +6,8 @@ export const themes = {
         backgroundColorDark: '#1e1e2e',
         textColor: '#303133',
         textColorDark: '#e5e5e5',
-        primaryColor: '#409EFF',
-        secondaryColor: '#67C23A',
+        primaryColor: '#E16221',
+        secondaryColor: '#409eff',
         borderColor: 'rgba(64, 158, 255, 0.2)',
         borderColorDark: 'rgba(255, 255, 255, 0.1)'
     },
